@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Elegant Skeleton?
+title: Elegant Skeleton
 url: "https://danweb3.github.io"
 baseurl:
 google_analytics_key:
@@ -12,9 +12,9 @@ disqus_shortname:
 logo: /siteicon.png
 description: Product marketing template for Jekyll.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Elegant Skeleton
+  email: elegantskeleton@outlook.com
+  twitter: ElegantSkelly # twitter username without the @ symbol
 social:
   name: Hydra Template
   links:
