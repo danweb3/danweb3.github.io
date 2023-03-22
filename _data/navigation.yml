@@ -18,8 +18,8 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
+- name: Research
+  link: /research/
   new_window: true
   highlight: false
 - name: Sign Up
