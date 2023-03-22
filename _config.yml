@@ -68,6 +68,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "participate.html"
+    values:
+      layout: "archive"
+  - scope:
       path: "contact.html"
     values:
       full_width: true
