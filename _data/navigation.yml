@@ -1,25 +1,25 @@
-- name: Testimonials
-  link: /testimonials/
+- name: About
+  link: /about/
   new_window: false
   highlight: false
-- name: Pricing
-  link: /pricing/
+- name: Research
+  link: /research/
+  new_window: false
+  highlight: true
+- name: Testimonials
+  link: /testimonials/
   new_window: false
   highlight: false
 - name: Blog
   link: /blog/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
 - name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Research
-  link: /research/
+- name: Pricing
+  link: /pricing/
   new_window: false
   highlight: false
 - name: Sign Up
