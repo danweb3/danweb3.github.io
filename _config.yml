@@ -64,6 +64,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "research.html"
+    values:
+      layout: "default"
+  - scope:
       path: "contact.html"
     values:
       full_width: true
