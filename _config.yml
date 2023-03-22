@@ -70,7 +70,7 @@ defaults:
   - scope:
       path: "participate.html"
     values:
-      layout: "post"
+      layout: "page"
   - scope:
       path: "contact.html"
     values:
