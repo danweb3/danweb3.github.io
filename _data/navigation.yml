@@ -1,4 +1,8 @@
-- name: Pricing
+- name: Testimonials
+  link: /testimonials/
+  new_window: false
+  highlight: false
+  - name: Pricing
   link: /pricing/
   new_window: false
   highlight: false
