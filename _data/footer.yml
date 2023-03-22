@@ -21,17 +21,17 @@
     link: /
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
+  - name: Instagram
+    link: https://www.instagram.com/elegantskelly/
     new_window: true
-    social_icon: Facebook
+    social_icon: Instagram
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/ElegantSkelly/
     social_icon: Twitter
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
+  - name: Tumblr
+    link: https://www.tumblr.com/elegantskelly
+    social_icon: Tumblr
     new_window: true
   - name: RSS
     link: /feed.xml
