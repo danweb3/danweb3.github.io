@@ -74,6 +74,7 @@ defaults:
   - scope:
       path: "contact.html"
     values:
+      layout: "default"
       full_width: true
 
 jekyll-archives:
