@@ -1,8 +1,8 @@
 - name: Testimonials
-  link: /
+  link: /Testimonials/
   new_window: false
   highlight: false
-  - name: Pricing
+- name: Pricing
   link: /pricing/
   new_window: false
   highlight: false
