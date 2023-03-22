@@ -1,4 +1,8 @@
 - name: About
+  link: /
+  new_window: false
+  highlight: false
+- name: Our Team
   link: /about/
   new_window: false
   highlight: false
@@ -18,11 +22,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Pricing
-  link: /pricing/
+- name: Participate
+  link: /participate/
   new_window: false
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: false
-  highlight: false
+  highlight: true
