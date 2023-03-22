@@ -1,19 +1,17 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
-- links:
   - name: Research
     link: /research/
-    new_window: true
   - name: Testimonials
     link: /testimonials/
-    new_window: true
+  - name: Blog
+    link: /blog/
+- links:
+  - name: Contact
+    link: /contact/
+  - name: Pricing
+    link: /pricing/
   - name: Docs
     link: /
     new_window: true
