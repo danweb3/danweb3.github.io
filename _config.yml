@@ -60,6 +60,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "testimonials.html"
+    values:
+      layout: "default"
+  - scope:
       path: "contact.html"
     values:
       full_width: true
