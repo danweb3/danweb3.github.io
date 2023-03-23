@@ -1,21 +1,21 @@
 - links:
   - name: About
-    link: /about/
+    link: /
+  - name: Our Team
+    link: /ourteam/
   - name: Research
     link: /research/
   - name: Testimonials
     link: /testimonials/
+
+- links:
   - name: Blog
     link: /blog/
-- links:
   - name: Contact
     link: /contact/
   - name: Participate
     link: /participate/
   - name: Docs
-    link: /
-    new_window: true
-  - name: Status
     link: /
     new_window: true
 - links:
