@@ -59,10 +59,6 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
-    - scope:
-      path: "ourteam.html"
-    values:
-      layout: "default"
   - scope:
       path: "testimonials.html"
     values:
@@ -74,11 +70,11 @@ defaults:
   - scope:
       path: "participate.html"
     values:
-      layout: "default"
+      layout: "page"
   - scope:
       path: "contact.html"
     values:
-      layout: "default"
+      layout: "page"
       full_width: true
 
 jekyll-archives:
