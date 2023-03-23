@@ -62,7 +62,7 @@ defaults:
   - scope:
       path: "testimonials.html"
     values:
-      layout: "page"
+      layout: "default"
   - scope:
       path: "research.html"
     values:
