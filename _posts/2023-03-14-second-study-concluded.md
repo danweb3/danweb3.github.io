@@ -16,6 +16,12 @@ Congratulations to all 20 teams who completed the entire Elegant Skeleton Public
 
 Cosrep were defeated. Will Reverse Philosophy be defeated at our next study?
 
+## Bonus
+
+As part of each of our research studies we strive to include opportunities for participating humans to be challenged with bonuses. This study was no exception and the Elegant Skeleton Research Institute would like to express the strongest possible praise to those teams who were able to complete these bonuses before anyone else.
+
+![Final Bonus Scoreboard showing which teams solved each Bonus first. In order they are: List, first solved by Reverse Philosophy; Game Week!, first solved by Team Extreme; Grid, first solved by Reverse Philosophy; Fishing, first solved by Team Extreme; Still Alive, first solved by Nerd Herd.](/images/Final_Bonus_Scoreboard_TGX_2023.jpeg)
+
 ## Results
 
 With so many teams taking part in this study it will take significant time for [our research team](/ourteam/) to navigate all the collected research data and draw conclusions. However, we are confident that we will be able to form significant conclusions based on the results of this study. We would like to thank The Game Expo for allowing us to make use of their attendees as test subjects for our second study investigating humans.
