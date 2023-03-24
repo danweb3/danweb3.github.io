@@ -59,6 +59,10 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
+    - scope:
+      path: "ourteam.html"
+    values:
+      layout: "default"
   - scope:
       path: "testimonials.html"
     values:
