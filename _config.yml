@@ -80,6 +80,10 @@ defaults:
     values:
       layout: "page"
       full_width: true
+  - scope:
+      path: "privacy.html"
+    values:
+      layout: "default"
 
 jekyll-archives:
   enabled:
