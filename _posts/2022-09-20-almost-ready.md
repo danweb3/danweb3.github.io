@@ -1,12 +1,16 @@
 ---
-date: 2020-07-20
-title: The process for direct sales
+date: 2022-09-20
+title: Almost Ready
 categories:
-  - sales
-author_staff_member: anna
+  - research
+author_staff_member: AElegantSkeleton
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
+## Almost Ready
+
+We here at the Elegant Skeleton Research Institute are almost ready to debut our very first research study.
+
+Stay tuned for the launch sometime next month
 
 ![Checkmate](https://source.unsplash.com/random/1500x1145)
 
