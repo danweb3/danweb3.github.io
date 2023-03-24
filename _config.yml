@@ -84,6 +84,10 @@ defaults:
       path: "privacy.html"
     values:
       layout: "default"
+  - scope:
+      path: "pricing.html"
+    values:
+      layout: "archive"
 
 jekyll-archives:
   enabled:
