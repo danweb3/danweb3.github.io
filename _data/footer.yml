@@ -15,8 +15,8 @@
     link: /contact/
   - name: Participate
     link: /participate/
-  - name: Docs
-    link: /
+  - name: Privacy Policy
+    link: /privacy/
     new_window: true
 - links:
   - name: Zuckerberg
