@@ -5,8 +5,8 @@ categories:
   - research
 author_staff_member: AElegantSkeleton
 ---
-After many years of preparation we here at the Elegant Skeleton Research Institute are finally ready to debut our very first research study.
+After many years of preparation we here at the Elegant Skeleton Research Institute are finally ready to debut our pilot research study.
 
-If you would like to [participate](/participate/) the study will be available from the 7th of October 2022.
+If you would like to [participate](/participate/), the study will be available from the 7th of October 2022.
 
 ![Logo](/images/Full_Wordmark.svg)
