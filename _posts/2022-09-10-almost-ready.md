@@ -6,9 +6,9 @@ categories:
 author_staff_member: AElegantSkeleton
 ---
 
-We here at the Elegant Skeleton Research Institute are almost ready to debut our very first research study.
+After many years of proparation we here at the Elegant Skeleton Research Institute are almost ready to debut our very first research study.
 
-Stay tuned for the launch sometime next month.
+If you would like to [participate](/participate.html) stay tuned for the launch next month.
 
 ![Logo](/images/Full_Wordmark.svg)
 
