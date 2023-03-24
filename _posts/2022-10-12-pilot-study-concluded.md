@@ -5,20 +5,14 @@ categories:
   - research
 author_staff_member: AElegantSkeleton
 ---
-Sales effectiveness refers to the ability of a company’s sales professionals to “win” at each stage of the customer’s buying process, and ultimately earn the business on the right terms and in the right timeframe.
+We are thrilled to announce that our pilot study has been a huge success.
 
-![American River](https://source.unsplash.com/random/1500x1146)
+## Successful Pilot Study
 
-## How do you improve sales effectiveness?
+248 teams of humans participated in this exciting trial study. We would like to congratulate team Cosrep for being the first team to successfully complete the entire study.
 
-Improving sales effectiveness is not just a sales function issue; it’s a company issue, as it requires deep collaboration between sales and marketing to understand what's working and not working, and continuous improvement of the knowledge, messages, skills, and strategies that sales people apply as they work sales opportunities.
+## Results
 
-Sales effectiveness has historically been used to describe a category of technologies and consulting services aimed at helping companies improve their sales results.
+Preliminary results from this pilot study are proving to be extremely fruitful in accomplishing our mission of understanding humans. We look forward to future studies to continue our research.
 
-Many companies are creating sales effectiveness functions and have even given people titles such as VP of Sales Effectiveness.
-
-![Coins](https://source.unsplash.com/random/1500x1147)
-
-"By analyzing sales force performance, managers can make changes to optimize sales going forward. Toward that end, there are many ways to gauge the performance of individual salespeople and of the sales force as a whole, in addition to total annual sales." In a survey of nearly 200 senior marketing managers, 54 percent responded that they found the "sales force effectiveness" metric very useful.
-
-[source](https://en.wikipedia.org/wiki/Sales_effectiveness): Wikipedia
+![Logo](/images/Full_Wordmark.svg)

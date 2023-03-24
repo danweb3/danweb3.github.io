@@ -6,22 +6,10 @@ categories:
 author_staff_member: AElegantSkeleton
 ---
 
-Upselling is a sales technique whereby a seller induces the customer to purchase more expensive items, upgrades or other add-ons in an attempt to make a more profitable sale. While it usually involves marketing more profitable services or products, it can be simply exposing the customer to other options that were perhaps not considered.
+The Elegant Skeleton Research Institute has been hard at work since the success of our pilot study in October last year. We have been looking forward to bringing a brand new study to the general population so that we can learn more about humans. We are delighted to announce the details of our upcoming second research study.
 
-In practice, large businesses usually combine upselling and cross-selling to maximize profit. In doing so, an organization must ensure that its relationship with the client is not disrupted.
+## Study Number 2 - The Game Expo 2023
 
-![Fair](https://source.unsplash.com/random/1500x1146)
+![Elegant Skeleton X The Game Expo March 11-12 2023](/images/Elegant_Skeleton_TGX_2023.png)
 
-In restaurants and other similar settings, upselling is commonplace and an accepted form of business. In other businesses (e.g. car sales), the customer’s perception of the attempted upsell can be viewed negatively and impact the desired result.
-
-## Why should you upsell?
-
-Upselling is a common practice for service providers that offer different service classes such as airlines (cf. Bohutinsky, 1990). According to “the journal of business and industrial marketing; written collaboratively by Michael J, Sheehan and Paul R, Prabhaker “It is five times more expensive to get a new customer as it is to hold onto a current one.” Selling to a new customer would mean having to start the sales process from the very beginning thus having to establish a new relationship with a different customer. This can be time consuming and often not very effective.
-
-![Gleise](https://source.unsplash.com/random/1500x1147)
-
-## The benefits
-
-Upselling to a customer that you have already built a rapport with, means that they are more likely to buy from you, listen to your suggestions and opinions and trust you. Selling to the same customer can lead to loyal customers and repeat sales. Upselling brings up the profit that the business makes and the value of the sale. However it is important to understand that although your main objective is to bring up revenue and increase the amount of the sale, a customers experience and their time with you influences future decisions that they make. An upsell can be beneficial to both the seller and the consumer if relevant products are being shown to the customer. For instance, if you had a strict budget of $20,000 for a car, you would not want to be sold a car for twice the amount.
-
-[source](https://en.wikipedia.org/wiki/Upselling): Wikipedia
+The Game Expo has seen the extreme value that our research presents and is looking forward to amplifying the access of our study to the many attendees of the expo.
