@@ -1,7 +1,7 @@
 ---
-name: Test Name
-position: Testing
+name: Elegant Skeleton (Ze/Zir)
+position: CEO
 image_path: https://upload.wikimedia.org/wikipedia/commons/b/bd/Test.svg
-twitter: Testing
-blurb: Testing likes long walks on the beach and buffet breakfast.
+twitter: ElegantSkelly
+blurb: Elegant Skeleton is passionate about researching humans.
 ---
