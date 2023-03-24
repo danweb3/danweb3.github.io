@@ -22,9 +22,6 @@ map:
 
 </div>
 
-<div class="map" id="map"></div>
-
-
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
 		<input type="hidden" name="_to" value="elegantskeleton@outlook.com" />
@@ -50,6 +47,8 @@ map:
 		<p><a href="mailto:elegantskeleton@outlook.com">elegantskeleton@outlook.com</a></p>
 	</div>
 </div>
+
+<div class="map" id="map"></div>
 
 <script type="text/javascript">
 	window.mapData = {{ page.map | jsonify }};
