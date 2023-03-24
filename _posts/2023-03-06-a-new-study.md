@@ -1,9 +1,8 @@
 ---
-date: 2020-07-28
-title: Effective upselling techniques
+date: 2023-03-06
+title: A New Study
 categories:
-  - sales
-  - tips
+  - research
 author_staff_member: AElegantSkeleton
 ---
 

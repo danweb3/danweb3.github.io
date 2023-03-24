@@ -1,8 +1,8 @@
 ---
-date: 2020-08-12
-title: The history of marketing
+date: 2022-09-26
+title: Reach for Launch
 categories:
-  - marketing
+  - research
 author_staff_member: AElegantSkeleton
 ---
 The beginnings of digital marketing technology can be traced back to the 1980's, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90's it all became clear.

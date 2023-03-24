@@ -1,9 +1,8 @@
 ---
-date: 2020-08-02
-title: Sales effectiveness
+date: 2022-10-12
+title: Pilot Study Concluded
 categories:
-  - sales
-  - tips
+  - research
 author_staff_member: AElegantSkeleton
 ---
 Sales effectiveness refers to the ability of a company’s sales professionals to “win” at each stage of the customer’s buying process, and ultimately earn the business on the right terms and in the right timeframe.
