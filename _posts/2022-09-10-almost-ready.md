@@ -6,8 +6,6 @@ categories:
 author_staff_member: AElegantSkeleton
 ---
 
-<h3>{{ post.title }}</h3>
-
 After many years of preparation we here at the Elegant Skeleton Research Institute are almost ready to debut our pilot research study.
 
 If you would like to [participate](/participate/), stay tuned for the launch next month.
