@@ -11,5 +11,3 @@ After many years of preparation we here at the Elegant Skeleton Research Institu
 If you would like to [participate](/participate/), stay tuned for the launch next month.
 
 ![Logo](/images/Full_Wordmark.svg)
-
-## Almost Ready
