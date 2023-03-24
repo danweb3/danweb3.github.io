@@ -62,7 +62,7 @@ defaults:
   - scope:
       path: "ourteam.html"
     values:
-      layout: "post"
+      layout: "page"
   - scope:
       path: "testimonials.html"
     values:
