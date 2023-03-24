@@ -17,12 +17,12 @@
     link: /participate/
   - name: Privacy Policy
     link: /privacy/
-    new_window: true
+    new_window: false
 - links:
   - name: Zuckerberg
     link: https://www.instagram.com/elegantskelly/
-    new_window: true
     social_icon: Instagram
+    new_window: true
   - name: Musk
     link: https://twitter.com/ElegantSkelly/
     social_icon: Twitter
