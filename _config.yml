@@ -59,7 +59,7 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
-    - scope:
+  - scope:
       path: "ourteam.html"
     values:
       layout: "default"
