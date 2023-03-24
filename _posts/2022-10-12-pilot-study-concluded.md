@@ -13,6 +13,6 @@ We are thrilled to announce that our pilot study has been a huge success.
 
 ## Results
 
-Preliminary results from this pilot study are proving to be extremely fruitful in accomplishing our mission of understanding humans. We look forward to future studies to continue our research.
+Preliminary results from this pilot study are proving to be extremely fruitful in accomplishing our mission of understanding humans. We look forward to our future studies that will continue our research.
 
 ![Logo](/images/Full_Wordmark.svg)
