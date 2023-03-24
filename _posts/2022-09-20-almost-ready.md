@@ -6,11 +6,11 @@ categories:
 author_staff_member: AElegantSkeleton
 ---
 
-## Almost Ready
-
 We here at the Elegant Skeleton Research Institute are almost ready to debut our very first research study.
 
-Stay tuned for the launch sometime next month
+Stay tuned for the launch sometime next month.
+
+<img src="{{ site.baseurl }}/images/Full_Wordmark.svg" alt="Logo" class="screenshot editable" />
 
 ![Checkmate](https://source.unsplash.com/random/1500x1145)
 
