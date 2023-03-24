@@ -9,7 +9,7 @@
 - name: Research
   link: /research/
   new_window: false
-  highlight: true
+  highlight: false
 - name: Testimonials
   link: /testimonials/
   new_window: false
