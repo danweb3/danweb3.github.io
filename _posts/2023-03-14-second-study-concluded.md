@@ -12,7 +12,7 @@ As we bring another Elegant Skeleton Research Institute research study to a clos
 
 Congratulations to all 20 teams who completed the entire Elegant Skeleton Public Aptitude Challenge for The Game Expo 2023. A special congratulations to these top 10 teams and a special mention to team Redd for missing out on finishing by approximately 7 seconds.
 
-[Final Scoreboard showing the first 10 teams to complete the entire study. In order they are: Reverse Philosophy, Hannabealla, Team Extreme, HarryGack, Kochiefy, HOT DRINKS, Nerd Herd, Sandwich, Technological Advancemen, ElegantSaloon.](/images/Final_Scoreboard_TGX_2023.png)
+![Final Scoreboard showing the first 10 teams to complete the entire study. In order they are: Reverse Philosophy, Hannabealla, Team Extreme, HarryGack, Kochiefy, HOT DRINKS, Nerd Herd, Sandwich, Technological Advancemen, ElegantSaloon.](/images/Final_Scoreboard_TGX_2023.png)
 
 Cosrep were defeated. Will Reverse Philosophy be defeated at our next study?
 
