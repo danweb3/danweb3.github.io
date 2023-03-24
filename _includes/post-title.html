@@ -1,5 +1,5 @@
 <p class="post-details">
-	<h3>{{ post.title }}</h3>
+	<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
 	{% for category in include.post.categories %}
 		<span class="blog-filter">
 			<a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category | capitalize }}</a>
