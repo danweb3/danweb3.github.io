@@ -6,8 +6,6 @@ layout: page
 
 <div class="blog-post text-container">
 
-	<a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a>
-
 	{% include post-title.html post=page %}
 	
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
