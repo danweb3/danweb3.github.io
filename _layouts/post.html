@@ -11,9 +11,9 @@ layout: page
 
 	<div class="post-content">
 
-		<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
-
 		{{ content }}
+
+		<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
 
 		<div class="author">
 			{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
