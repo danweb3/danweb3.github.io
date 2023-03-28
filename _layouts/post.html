@@ -9,9 +9,10 @@ layout: page
 	
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 
-	<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
-
 	<div class="post-content">
+
+		<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
+
 		{{ content }}
 
 		<div class="author">
