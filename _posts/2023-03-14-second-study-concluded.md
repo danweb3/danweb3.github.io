@@ -6,8 +6,6 @@ categories:
 author_staff_member: AElegantSkeleton
 ---
 
-{{ post.title }}
-
 As we bring another Elegant Skeleton Research Institute research study to a close, we would like to express our gratitude to all participating research teams.
 
 ## Successful Study
