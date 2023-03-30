@@ -11,8 +11,20 @@ layout: page
 	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 
 	<div class="post-content">
-
-		{{ content }}
+		<section class="page">
+			<div class="container {% if page.full_width %}max-container{% endif %}">
+				{% if page.heading %}
+					<h2 style = "font-weight: bold;">{{ page.heading }}</h2>
+				{% elsif page.title and page.layout != 'archive' %}
+					<h2 style = "font-weight: bold;">{{ page.title }}</h2>
+				{% endif %}
+				{% if page.description %}
+					<p class="subtext">{{ page.description }}</p>
+				{% endif %}
+				<hr>
+				{{ content }}
+			</div>
+		</section>
 
 		<div class="author">
 			{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
