@@ -90,6 +90,10 @@ section + section {
 	text-align: center;
 }
 
+//In testimonials.html the quotes are defined as a <blockquote> element with two <p> elements 
+//one for the content, and one for the author
+//this block defines the style for the blockquote plus individual specific styles for the 
+//quote paragraph and the author
 blockquote {
 	padding: 18px 25px;
 	margin: 0;
@@ -107,8 +111,20 @@ blockquote {
 	p {
 		display: inline;
 	}
+//this creates the close quotes, specifically after the quote and before the author
+	p:after{
+		color: #ccc;
+		content: close-quote;
+		font-size: 3em;
+		line-height: 0.1em;
+		margin-left: 0.25em;
+		vertical-align: -0.5em;
+	}
 }
-
+//the below is the part of the layout that creates the opening quote " symbol on the testimonials
+//it places it at the start by using the "before" keyword.
+//previously there was no close quotes, while we could add them using a blockquote::after block, 
+//this would place the closed quotes after the author because the blockquote elements wraps around everything (see above)
 blockquote:before {
 	color: #ccc;
 	content: open-quote;
@@ -118,6 +134,11 @@ blockquote:before {
 	vertical-align: -0.4em;
 }
 
+//this is the circle images, its probably called square image because sometime in the past cloudcannon
+//originally defined this for square images.
+//the top part defines the circle, same width and height so its a circle not an ellipse, and
+//"border-radius" is rounding the corners to the point its a circle
+//"overflow:hidden" hides any of the image that falls outside the circle 
 .square-image {
 	width: 150px;
 	height: 150px;
@@ -125,14 +146,18 @@ blockquote:before {
 	margin: 25px auto 0 auto;
 	position: relative;
 	border-radius: 100%;
-
+//this img part styles the image within the circle, the combo of using absolute + top and left 50% 
+//plus translate centers the image within the circle
+//in order to ensure the image takes up the entire circle, height is set to 100% and width is set
+//to auto in order to maintain the images aspect ratio
+//however I'm pretty sure this means if we try to use an image that is significantly taller than its width, it will break
 	img {
 		height: 100%;
 		width: auto;
 		position: absolute;
 		top: 50%;
 		left: 50%;
-		-ms-transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%); //a special transform only for internet explorer 9
 		transform: translate(-50%, -50%);
 	}
 }
