@@ -18,13 +18,13 @@
 }
 
 header {
-	color: #fff;
+	color: $hero-text-color;
 	padding: 20px 0;
 	background: $brand-color; /* Old browsers */
-	background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%) no-repeat $brand-color;
+	background: linear-gradient(to bottom, $brand-color 100%, $middle-gradient-color 100%) no-repeat $brand-color;
 
 	a {
-		color: #fff;
+		color: $hero-text-color;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -123,7 +123,7 @@ blockquote {
 }
 //the below is the part of the layout that creates the opening quote " symbol on the testimonials
 //it places it at the start by using the "before" keyword.
-//previously there was no close quotes, while we could add them using a blockquote::after block, 
+//previously there was no close quotes, while we could add them using a blockquote:after block, 
 //this would place the closed quotes after the author because the blockquote elements wraps around everything (see above)
 blockquote:before {
 	color: #ccc;
@@ -133,6 +133,7 @@ blockquote:before {
 	margin-right: 0.25em;
 	vertical-align: -0.4em;
 }
+
 
 //this is the circle images, its probably called square image because sometime in the past cloudcannon
 //originally defined this for square images.
@@ -145,7 +146,13 @@ blockquote:before {
 	overflow: hidden;
 	margin: 25px auto 0 auto;
 	position: relative;
+	padding: 10px;
+	background-clip: padding-box, border-box;
+	border: 3px solid transparent;
 	border-radius: 100%;
+	background: linear-gradient(to top, $brand-gradient-one 0%, $brand-gradient-two 18%, $brand-gradient-three 59%, $brand-gradient-four);
+	background-origin: border-box;
+
 //this img part styles the image within the circle, the combo of using absolute + top and left 50% 
 //plus translate centers the image within the circle
 //in order to ensure the image takes up the entire circle, height is set to 100% and width is set
@@ -158,7 +165,7 @@ blockquote:before {
 		top: 50%;
 		left: 50%;
 		-ms-transform: translate(-50%, -50%); //a special transform only for internet explorer 9
-		transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);	
 	}
 }
 

@@ -1,6 +1,13 @@
-$brand-color: #4182e4;
-$secondary-brand-color: #4182e4;
+//we're using this file to define any style elements that are variable or shared between multiple files
+
+$brand-color: #1c1c1c;
+$secondary-brand-color: #43EBEB;
 $middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+$hero-text-color: #ffff;
+$brand-gradient-one:#00d41f;//0
+$brand-gradient-two:#00d640;//18
+$brand-gradient-three:#00dc94;//59
+$brand-gradient-four:#00e2ef;//100
 
 // Breakpoints
 $tablet: "(min-width: 450px)";
