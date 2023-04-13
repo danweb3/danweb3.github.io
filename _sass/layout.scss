@@ -50,7 +50,7 @@ header {
 }
 
 .content {
-	background: #fff;
+	background: $main-background-color;
 	padding: 1px 0 0 0;
 	position: relative;
 }
@@ -135,8 +135,8 @@ blockquote:before {
 }
 
 
-//this is the circle images, its probably called square image because sometime in the past cloudcannon
-//originally defined this for square images.
+//this is the circle images, I think its called square image because, as it was originally, it
+//only really worked with turning square images into circles, not rectangles. 
 //the top part defines the circle, same width and height so its a circle not an ellipse, and
 //"border-radius" is rounding the corners to the point its a circle
 //"overflow:hidden" hides any of the image that falls outside the circle 
